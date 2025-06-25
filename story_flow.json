@@ -1,0 +1,32 @@
+[
+    {
+        "expected": ["bonjour"],
+        "image": "static/images/bonjour.gif",
+        "prompt": "Bonjour ! - Hello! (sign 'BONJOUR' - Use your RIGHT HAND only - Utilisez uniquement votre MAIN DROITE)"
+    },
+    {
+        "expected": ["ca_va"],
+        "image": "static/images/ca_va.gif",
+        "prompt": "Ça va ? - How are you? (sign ÇA VA)"
+    },
+    {
+        "expected": ["boire"],
+        "image": "static/images/boire.gif",
+        "prompt": "Tu as soif ? Tu veux boire quelque chose ? - Are you thirsty? Want to drink something?\n(sign 'BOIRE' - Use ONE HAND only (left or right) \n- Utilisez une seule main (La main droite ou gauche))"
+    },
+    {
+        "expected": ["quoi"],
+        "image": "static/images/quoi.gif",
+        "prompt": "Tu vas boire quoi ? - What are you going to drink? (sign QUOI/QUE)"
+    },
+    {
+        "expected": ["au_revoir"],
+        "image": "static/images/au_revoir.gif",
+        "prompt": "Désolé, j'ai oublié une réunion à mon travail. Au revoir ! - Sorry, I forgot a meeting at work. Bye!\n(sign 'AU REVOIR' - Use ONE HAND only (left or right) \n- Utilises une seule main (La main droite ou gauche)"
+    },
+    {
+        "expected": ["quoi"],
+        "image": "static/images/question_mark.png",
+        "prompt": "QUOI ??? - WHAT??? (sign QUOI/QUE) \n- To end the story, you need to do the sign 'Quoi' correctly!\nPour terminer l'histoire, vous devez faire le signe 'Quoi' correctement !"
+    }
+]
