@@ -9,3 +9,7 @@ requests
 scikit-learn
 fastapi
 uvicorn[standard]
+flask
+flask-socketio
+eventlet
+gevent
