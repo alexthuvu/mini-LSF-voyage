@@ -1,8 +1,9 @@
 ## 📖 Story of the Build
 
-> Started as a crazy idea… became a 4-week deep dive into LSF sign recognition.
+> Started as a crazy idea for my first ever project of ML … became a 4-week deep dive into LSF sign recognition.
 
 ---
+> Click to watch my app demo below:
 
 [![Watch the demo](https://img.youtube.com/vi/3Z3ZAM3X5YE/hqdefault.jpg)](https://youtu.be/3Z3ZAM3X5YE)
 
