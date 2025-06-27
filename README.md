@@ -5,7 +5,7 @@
 ---
 > Click to watch my app demo below:
 
-[![Watch the demo](https://img.youtube.com/vi/3Z3ZAM3X5YE/hqdefault.jpg)](https://youtu.be/3Z3ZAM3X5YE)
+[![Watch the demo](https://img.youtube.com/vi/3Z3ZAM3X5YE/hqdefault.jpg)](https://youtu.be/zy3QDSNLnQo)
 
 ### 🗓 Week 1 (from 2024.05.26):
 
